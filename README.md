@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 Здесь ты найдешь мои проекты с курсов от [DeepLearningSchool](https://www.dlschool.org) и [Яндекс.Практикума](https://practicum.yandex.ru).
 
-Подробнее можешь почитать обо мне тут.
+Подробнее можешь почитать обо мне [тут](https://rusmux.github.io/rusmux/).
